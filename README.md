@@ -8,6 +8,7 @@ COVID-19 has put into perspective the uncertainty and instability that comes wit
 Notate is a multi-user web conferencing app which allows for students to create and access various study rooms to virtually interact with others worldwide and revolutionize the way notes are taken. It has the capacity to host up to 50 unique channels each with 100+ attendees so students can get help and advice from a multitude of sources. With the use of ML techniques, it allows for real time text-to-speech transcribing so lectures and conversations are stored and categorized in different ways. Our smart hub system makes studying more effective and efficient as we are able to sort and decipher conversations and extract relevant data which other students can use to learn all in real time.
 
 ## Live Demo
+Devpost Link (contains Demo, and screenshots): https://devpost.com/software/notate
 Youtube Link: https://www.youtube.com/watch?v=yppmLkN6aHA
 
 ## Running/installing dependencies remotely
