@@ -1,12 +1,16 @@
 # Notate
-Notate is a multi-user video calling app which leverages ML algorithms and Google APIs in realtime to enhance remote learning by connecting students worldwide and creating a smart hub for notes.
+Notate is a multi-user video calling web app which leverages ML algorithms and Google APIs in realtime to enhance remote learning by connecting students worldwide and creating a smart hub for notes. Tools Used: TypeScript, React/Redux, Node.js, Google Cloud, CSS
+
 ## Inspiration
-As a group of university students from across North America, COVID-19 has put into perspective the uncertainty and instability that comes with online education. To ease this transition, we were inspired to create Notate — an unparalleled speech-to-text transcription platform backed by the power of Google Cloud’s Machine Learning algorithms. Although our team has come from different walks of life, we easily related to each others’ values for accessibility, equality, and education.
+COVID-19 has put into perspective the uncertainty and instability that comes with online education. To ease this transition, we were inspired to create Notate — an unparalleled speech-to-text transcription platform backed by the power of Google Cloud’s Machine Learning algorithms. Although our team has come from different walks of life, we easily related to each others’ values for accessibility, equality, and education.
 
 ## What it does
 Notate is a multi-user web conferencing app which allows for students to create and access various study rooms to virtually interact with others worldwide and revolutionize the way notes are taken. It has the capacity to host up to 50 unique channels each with 100+ attendees so students can get help and advice from a multitude of sources. With the use of ML techniques, it allows for real time text-to-speech transcribing so lectures and conversations are stored and categorized in different ways. Our smart hub system makes studying more effective and efficient as we are able to sort and decipher conversations and extract relevant data which other students can use to learn all in real time.
 
-## Running/installing dependencies
+## Live Demo
+Youtube Link: https://www.youtube.com/watch?v=yppmLkN6aHA
+
+## Running/installing dependencies remotely
 To build our app: `gatsby develop`
 
 To run temporarily: http://f1378179ca39.ngrok.io/
